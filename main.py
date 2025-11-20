@@ -11,9 +11,9 @@ import io
 import pandas as pd
 
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
-API_KEY = "AIzaSyBJT5LFKvt9gO8CcJSxaTwozB9jQJ10F2U"
+API_KEY = "API_KEY"
 
-doc_id = '10PfxePs5JFB863oEUQU0FlrxtSwLsu9ldb7ktd34KpA'
+doc_id = 'DOC_ID'
 
 dataFileName = 'dataFile.txt'
 
